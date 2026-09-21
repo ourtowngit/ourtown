@@ -1,14 +1,31 @@
 ---
 title: Rural Revitalization
+description: The whitepaper's framework for using bio-energy, agriculture, infrastructure, and education to support rural communities.
+tags:
+  - rural-revitalization
+  - community
+  - agriculture
 ---
+
 # Rural Revitalization
 
-Post–World War II massive consolidation and the farm expansion wave of the 1970s accelerated the decline of family-run small farms, leading to shrinking rural populations and straining small-town economies.
+The whitepaper frames rural revitalization as a combination of agricultural diversification, local processing, infrastructure reuse, new businesses, workforce development, and community coordination.
 
 ## Closing the Loop
-Developing low-carbon bio-fuel pathways using existing rail networks can establish bio-fuel hubs within farm communities. Shifting value-added processes to locally controlled facilities enhances profitability for larger-scale farms and opens new sustainable markets, fostering rural re-development and smaller-scale agricultural initiatives.
+
+Low-carbon bio-fuel pathways using existing rail networks can establish bio-fuel hubs within farm communities.
+
+Moving value-added processes into locally controlled facilities is intended to:
+
+- Create new sustainable markets.
+- Retain more value in farm communities.
+- Support larger and smaller agricultural operations.
+- Generate employment.
+- Reduce reliance on fossil fuels.
+- Strengthen local and regional energy security.
 
 ## Education and Future Leaders
-Education is essential to inspire a new generation of students and leaders committed to responsible land stewardship, sustainable agriculture, and community-driven economic rural development.
 
-See also: [[Rail-Oriented Development]], [[Farm Cooperative Model]]
+Education is identified as essential for developing future leaders committed to responsible land stewardship, sustainable agriculture, and community-driven rural development.
+
+See also: [[Economic Development]], [[Workforce and Education]], [[Rail-Oriented Development]], [[Farm Cooperative Model]]

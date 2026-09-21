@@ -1,12 +1,30 @@
 ---
 title: Sustainable Aviation Fuel (SAF)
+description: The SAF market opportunity described in the whitepaper and its connection to agricultural feedstocks.
+tags:
+  - SAF
+  - aviation
+  - bio-fuels
 ---
+
 # Sustainable Aviation Fuel (SAF)
 
-While airlines globally have committed to purchasing billions of gallons of SAF over the next few decades, current production is vastly insufficient to fuel commercial airlines globally for even a single day.
+The whitepaper identifies growing demand for Sustainable Aviation Fuel as an opportunity to create new agricultural markets and stimulate rural economic development.
 
-Established farm operations hold the key to advancing bio-fuels beyond commodity supply. Developing low-carbon bio-fuel pathways using existing rail networks can establish bio-fuel hubs within farm communities extending westward to the Dakotas. 
+It notes that airlines have committed to purchasing billions of gallons of SAF over the next few decades, while current production remains vastly insufficient to supply commercial aviation at global scale.
 
-Processing facilities will provide the opportunity to test the networking and scalability of small localized hubs with rail access to provide seed-oil, SAF components, and bio-crude in volumes necessary to meet aviation industry goals.
+## Why Agriculture Matters
 
-See also: [[The Project and Objectives]], [[Proposed Action Plan]]
+Established farm operations can participate in bio-fuel development beyond commodity production by engaging in:
+
+- Feedstock cultivation.
+- Farmer-led aggregation.
+- Value-added processing.
+- Cooperative ownership and market participation.
+- New markets for both large-scale and smaller farms.
+
+## Localized SAF Infrastructure
+
+The proposed processing network is designed to test the scalability of small localized hubs with rail access that can provide seed oil, SAF components, and bio-crude.
+
+See also: [[SAF Supply Chain]], [[Oilseed Feedstocks]], [[The Prototype Processing Facility]], [[Rail-Oriented Development]]

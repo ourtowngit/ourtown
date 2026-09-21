@@ -1,17 +1,31 @@
 ---
 title: The Farm Cooperative Model
+description: A farmer-oriented cooperative structure for aggregation, processing, market participation, and energy independence.
+tags:
+  - cooperative
+  - farmers
+  - bio-energy
 ---
+
 # The Farm Cooperative Model
 
-Minnesota has a longstanding tradition of agricultural cooperatives, dating back to the late 19th century. Today, the state hosts more than 60 active agricultural cooperatives.
-
-The rich legacy of the independent farmer can be enhanced by restoring the localized, community-based focus of the early Cooperative movement. 
+Minnesota has a longstanding agricultural cooperative tradition dating to the late 19th century. The whitepaper presents that history as a foundation for a more localized, community-based cooperative approach.
 
 ## Bio-energy-Based Cooperative
-A new cooperative should be formed to:
-- Advance the development of processing facilities for oil-seed crops.
-- Aggregate regional feedstock supplies to stabilize market availability.
-- Represent farm interests in bio-fuel and bio-energy commodity markets.
-- Facilitate knowledge exchange for energy independence and climate resilience.
 
-See also: [[Proposed Action Plan]], [[Rural Revitalization]]
+A proposed cooperative would:
+
+- Advance development and optimization of processing facilities for oilseed crops and other SAF-relevant feedstocks.
+- Aggregate regional feedstock supplies.
+- Stabilize market availability and reduce supply-chain risks.
+- Represent farm interests in bio-fuel and bio-energy commodity markets.
+- Provide market intelligence and advocacy.
+- Facilitate knowledge exchange and shared services.
+- Support energy independence and climate resilience.
+- Liaise with policymakers and regulatory agencies on SAF policies, credits, incentives, and funding.
+
+## Shared Ownership
+
+The whitepaper connects cooperative ownership with greater farmer participation in value-adding systems and processing.
+
+See also: [[Minnesota Cooperative Heritage]], [[Cooperative Functions]], [[SAF Supply Chain]], [[Rural Revitalization]]
