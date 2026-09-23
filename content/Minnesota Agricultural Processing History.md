@@ -27,6 +27,6 @@ The point is not to romanticize the old canning industry.
 
 The point is to document a historical pattern in which agricultural production, processing, labor, transportation, and community life were economically connected.
 
-CarbonShare asks whether new industries can create a comparable network using today's technologies and markets.
+OurTown asks whether new industries can create a comparable network using today's technologies and markets.
 
 See [[Historical Farm-Town Synergy]], [[Local Processing as the Central Economic Thesis]], and [[Rural Revitalization as a Central Thesis]].

@@ -6,7 +6,7 @@ tags: [carbon-markets, rural-development, questions]
 
 # Can Carbon Markets Revitalize Small Towns?
 
-CarbonShare asks whether corporate demand for carbon reductions and removals can become one component of rural economic development.
+OurTown asks whether corporate demand for carbon reductions and removals can become one component of rural economic development.
 
 ## The question
 

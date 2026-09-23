@@ -6,7 +6,7 @@ tags: [farmers, carbon-credits, agriculture]
 
 # What Carbon Credits Mean for Farmers
 
-CarbonShare starts from the farmer rather than the corporate buyer.
+OurTown starts from the farmer rather than the corporate buyer.
 
 The central question is:
 

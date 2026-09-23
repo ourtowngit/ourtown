@@ -8,4 +8,4 @@ Carbon markets create a possible financial connection between agricultural pract
 
 For farmers, the important questions include how value is measured, verified, contracted, financed, and distributed. Relevant concepts include [[Carbon Credits]], [[Carbon Sequestration]], [[Biochar]], and [[Corporate Climate Commitments]].
 
-The CarbonShare concept asks whether carbon-market demand can become part of a broader rural system rather than a stand-alone transaction.
+The OurTown concept asks whether carbon-market demand can become part of a broader rural system rather than a stand-alone transaction.

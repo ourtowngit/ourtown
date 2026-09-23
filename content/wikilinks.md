@@ -1,9 +1,13 @@
 ---
-title: wikilinks
+title: Wikilinks
+tags:
+  - quartz
+  - documentation
 ---
+# Wikilinks
 
-# wikilinks
+Quartz can use Obsidian-style wikilinks to connect pages in the content collection. A link such as `[[Page Title]]` points to a page with that title; aliases can be written as `[[Page Title|display text]]`.
 
-This topic is retained as a distinct node in the combined CarbonShare and Sustainable Aviation Fuel knowledge base.
+Use links to make relationships between topics clear, and check that each target page exists before publishing.
 
-See [[index]] for the overall structure.
+See [[index]].

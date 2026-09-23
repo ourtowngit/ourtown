@@ -6,7 +6,7 @@ tags: [value-added, rural-development, agriculture]
 
 # Value-Added Processing
 
-A recurring CarbonShare idea is to get production and value-added processes back into small towns.
+A recurring OurTown idea is to get production and value-added processes back into small towns.
 
 ## From Commodity to Product
 

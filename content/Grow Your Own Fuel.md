@@ -6,7 +6,7 @@ tags: [energy, agriculture, bio-fuels]
 
 # Grow Your Own Fuel
 
-“Grow your own fuel” captures a central CarbonShare idea: agriculture can potentially become part of its own energy supply.
+“Grow your own fuel” captures a central OurTown idea: agriculture can potentially become part of its own energy supply.
 
 ## Historical Roots
 

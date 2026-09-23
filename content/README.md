@@ -1,13 +1,12 @@
 ---
-title: OurTown / CarbonShare Content
-description: Editorial and research content for the OurTown / CarbonShare Quartz site.
+title: OurTown Content
+description: Editorial and research content for the OurTown Quartz site.
 tags:
   - quartz
   - ourtown
-  - carbonshare
   - research
 ---
-# OurTown / CarbonShare Content
+# OurTown Content
 
 This content set is designed for Quartz 5.
 
@@ -17,25 +16,8 @@ The site uses YAML frontmatter and Obsidian-style `[[wikilinks]]` for navigation
 
 ## Research status
 
-The rebuilt pages incorporate the verification pass completed in September 2026.
+The content incorporates a research and verification pass completed in September 2026. It distinguishes documented facts from attributed source claims, project propositions, and unresolved questions.
 
-Important changes include:
-
-- Microsoft's 2020 carbon-negative commitment is treated as documented fact.
-- Microsoft's February 2025 “moon has gotten further away” statement is linked directly.
-- IATA's 2026 SAF production estimate is used instead of the older “one day of aviation” formulation.
-- The unverified “20% of farmers' time” statistic is explicitly excluded as a fact.
-- Historical farm-energy examples are retained.
-- The oil-dependence argument is rewritten around exposure to purchased energy rather than unsupported depletion predictions.
-- IATA and individual airline goals are documented.
-- Biochar carbon-credit eligibility is treated as conditional on methodology and verification.
-- Waste-heat recovery is documented as a real technology with site-specific economics.
-- Winter camelina is documented as a researched feedstock while its economics remain an investigation.
-- Local processing and rural revitalization are elevated to central theses.
-- Employment is treated as a supply-chain opportunity rather than a single plant-job claim.
-- Minnesota's cooperative count is updated to USDA's 2022 figure of 143 agricultural cooperatives headquartered in Minnesota.
-- The unsupported “150 canneries in the 1960s” figure is replaced with documented historical processing counts.
-- The Rudolf Diesel/1900 peanut-oil demonstration is stated precisely.
-- Highway 212, TC&W, the regional rail network, and Pine Bend are described without implying a direct TC&W-to-Pine-Bend rail connection.
+Topics include Microsoft's climate commitments, aviation and sustainable aviation fuel, agricultural feedstocks, carbon-credit eligibility, biochar, waste-heat recovery, cooperative structures, local processing, and rural development. Where economics or project feasibility are uncertain, the pages present them as questions for further analysis rather than established outcomes.
 
 See [[Claims and Verification Status]] and [[Research Sources]].

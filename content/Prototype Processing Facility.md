@@ -1,9 +1,11 @@
 ---
 title: Prototype Processing Facility
+tags:
+  - processing
+  - project-development
 ---
-
 # Prototype Processing Facility
 
-This topic is retained as a distinct node in the combined CarbonShare and Sustainable Aviation Fuel knowledge base.
+A prototype processing facility can help test whether a proposed crop-to-product pathway works at practical scale. Before treating a facility as viable, evaluation would need to cover feedstock supply, process performance, coproduct markets, energy and water use, permitting, capital and operating costs, logistics, and ownership.
 
-See [[index]] for the overall structure.
+See [[Value-Added Processing]], [[Oilseed Feedstocks]], and [[Farm Cooperative Model]].

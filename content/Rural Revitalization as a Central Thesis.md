@@ -7,7 +7,7 @@ tags:
 ---
 # Rural Revitalization as a Central Thesis
 
-CarbonShare's second central thesis is:
+OurTown's second central thesis is:
 
 > **A new generation of agricultural processing, energy production, and carbon-management infrastructure could provide rural communities with a reason to rebuild the industrial and commercial systems that once connected farms to local towns and railroads.**
 

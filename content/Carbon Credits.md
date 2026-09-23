@@ -6,7 +6,7 @@ tags: [carbon-credits, carbon-markets, climate]
 
 # Carbon Credits
 
-CarbonShare identifies carbon credits as a possible mechanism connecting corporate climate goals with projects that reduce, avoid, or remove greenhouse-gas emissions.
+OurTown identifies carbon credits as a possible mechanism connecting corporate climate goals with projects that reduce, avoid, or remove greenhouse-gas emissions.
 
 ## The Farmer Question
 

@@ -21,4 +21,4 @@ The historical episode illustrates a recurring energy question:
 
 > Can locally available biological resources provide useful energy and reduce dependence on imported fuels?
 
-CarbonShare does not treat the 1900 experiment as proof of modern SAF economics. It is historical context for [[Grow Your Own Fuel]], [[Farm Bio-Diesel and Local Energy]], and [[Energy Independence]].
+OurTown does not treat the 1900 experiment as proof of modern SAF economics. It is historical context for [[Grow Your Own Fuel]], [[Farm Bio-Diesel and Local Energy]], and [[Energy Independence]].

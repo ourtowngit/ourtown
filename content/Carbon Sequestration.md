@@ -6,7 +6,7 @@ tags: [carbon-sequestration, agriculture, carbon-markets]
 
 # Carbon Sequestration
 
-CarbonShare identifies sequestering carbon as one possible pathway for connecting agricultural activity with corporate carbon goals.
+OurTown identifies sequestering carbon as one possible pathway for connecting agricultural activity with corporate carbon goals.
 
 ## Agricultural Connection
 

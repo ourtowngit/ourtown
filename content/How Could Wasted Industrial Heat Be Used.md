@@ -6,7 +6,7 @@ tags: [industrial-heat, energy, questions]
 
 # How Could Wasted Industrial Heat Be Used
 
-The CarbonShare notes identify wasted industrial heat as an opportunity but do not yet define a specific project.
+The OurTown notes identify wasted industrial heat as an opportunity but do not yet define a specific project.
 
 ## Questions
 

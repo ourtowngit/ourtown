@@ -6,7 +6,7 @@ tags:
 ---
 # SAF Framework
 
-The SAF framework is the agricultural and infrastructure side of CarbonShare.
+The SAF framework is the agricultural and infrastructure side of OurTown.
 
 It asks how a regional system could connect:
 

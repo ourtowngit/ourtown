@@ -4,7 +4,7 @@ title: Economic Development
 
 # Economic Development
 
-The CarbonShare and SAF material treats energy and agricultural processing as potential tools for [[Rural Revitalization]].
+The OurTown and SAF material treats energy and agricultural processing as potential tools for [[Rural Revitalization]].
 
 Relevant mechanisms include [[Value-Added Processing]], [[Farm Cooperative Model]], [[Collection Hubs]], [[Rail-Oriented Development]], and [[Carbon Markets and Agriculture]].
 

@@ -54,6 +54,6 @@ A 2025 peer-reviewed study modeled camelina, pennycress, and carinata as potenti
 
 Source: [Renewable and Sustainable Energy Reviews, 2025](https://www.sciencedirect.com/science/article/pii/S136403212500228X).
 
-These results are scenario-dependent. CarbonShare should use them as evidence for what must be modeled, not as a guaranteed Minnesota project return.
+These results are scenario-dependent. OurTown should use them as evidence for what must be modeled, not as a guaranteed Minnesota project return.
 
 See [[Winter Camelina]], [[Value-Added Processing]], and [[Local Processing as the Central Economic Thesis]].

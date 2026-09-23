@@ -7,7 +7,7 @@ tags:
 ---
 # Local Processing as the Central Economic Thesis
 
-This is one of the central propositions of CarbonShare:
+This is one of the central propositions of OurTown:
 
 > **More agricultural value can remain in rural communities when more of the processing occurs near the farm.**
 

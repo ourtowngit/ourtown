@@ -18,7 +18,7 @@ The refinery's own materials identify jet fuel among its products and report mor
 
 Source: [Pine Bend Refinery](https://pinebendrefinery.com/).
 
-## What CarbonShare proposes
+## What OurTown proposes
 
 The whitepaper identifies proximity to existing downstream infrastructure as a strategic consideration.
 

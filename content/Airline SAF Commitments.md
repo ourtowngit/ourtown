@@ -37,6 +37,6 @@ Source: [Alaska Airlines sustainability](https://news.alaskaair.com/sustainabili
 
 They establish examples of documented airline demand and long-term planning.
 
-They do **not** establish that winter camelina, a specific Minnesota processing facility, or a particular CarbonShare project will qualify as a supplier.
+They do **not** establish that winter camelina, a specific Minnesota processing facility, or a particular OurTown project will qualify as a supplier.
 
 That distinction belongs in [[Claims and Verification Status]].

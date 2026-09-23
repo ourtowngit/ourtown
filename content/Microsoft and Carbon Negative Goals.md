@@ -19,9 +19,9 @@ Microsoft's own wording is notable: goals described as a “moonshot” in 2020 
 
 Source: [Microsoft, “Progress on the road to 2030,” February 13, 2025](https://blogs.microsoft.com/on-the-issues/2025/02/13/progress-on-the-road-to-2030/).
 
-## Why CarbonShare cares
+## Why OurTown cares
 
-The important CarbonShare question is not whether Microsoft alone can solve rural economic problems.
+The important OurTown question is not whether Microsoft alone can solve rural economic problems.
 
 It is:
 

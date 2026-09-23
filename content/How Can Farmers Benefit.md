@@ -1,12 +1,12 @@
 ---
 title: How Can Farmers Benefit
 description: The central farmer-benefit question connecting carbon markets with rural economic development.
-tags: [farmers, carbonshare, rural-development]
+tags: [farmers, ourtown, rural-development]
 ---
 
 # How Can Farmers Benefit
 
-The central practical question behind CarbonShare is how family farms can participate in markets created by corporate climate initiatives.
+The central practical question behind OurTown is how family farms can participate in markets created by corporate climate initiatives.
 
 Possible areas include:
 

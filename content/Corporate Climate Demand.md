@@ -12,6 +12,6 @@ Microsoft is a useful documented example. Its 2020 commitment and 2025 progress 
 
 Sources: [Microsoft 2020](https://blogs.microsoft.com/blog/2020/01/16/microsoft-will-be-carbon-negative-by-2030/) and [Microsoft 2025](https://blogs.microsoft.com/on-the-issues/2025/02/13/progress-on-the-road-to-2030/).
 
-CarbonShare asks how some of that demand could connect with rural projects.
+OurTown asks how some of that demand could connect with rural projects.
 
 See [[Microsoft and Carbon Negative Goals]], [[Carbon Markets and Agriculture]], and [[Carbon Credit Eligibility]].

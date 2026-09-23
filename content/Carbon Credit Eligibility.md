@@ -28,6 +28,6 @@ Verra's VM0044 methodology provides one established framework for biochar projec
 
 Source: [Verra, VM0044](https://verra.org/methodologies/vm0044-biochar-utilization-in-soil-and-non-soil-applications-v1-2/).
 
-CarbonShare should therefore treat carbon credits as a **potential revenue stream subject to project qualification**, rather than as guaranteed farm income.
+OurTown should therefore treat carbon credits as a **potential revenue stream subject to project qualification**, rather than as guaranteed farm income.
 
 See [[Biochar]], [[Carbon Credits]], and [[What Carbon Credits Mean for Farmers]].

@@ -7,7 +7,7 @@ tags:
 ---
 # Oil and Energy Independence
 
-CarbonShare does not need to predict when petroleum will run out to make the energy-independence argument.
+OurTown does not need to predict when petroleum will run out to make the energy-independence argument.
 
 A more precise proposition is:
 

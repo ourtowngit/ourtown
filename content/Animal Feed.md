@@ -1,9 +1,11 @@
 ---
 title: Animal Feed
+tags:
+  - agriculture
+  - animal-feed
 ---
-
 # Animal Feed
 
-This topic is retained as a distinct node in the combined CarbonShare and Sustainable Aviation Fuel knowledge base.
+Animal-feed value can be an important part of evaluating agricultural processing. For oilseed systems, the remaining meal or press cake may have a feed use, but its suitability and market value depend on the crop, processing method, composition, safety requirements, and local buyers.
 
-See [[index]] for the overall structure.
+See [[Animal Feed Byproduct]], [[Oilseed Feedstocks]], and [[Value-Added Processing]].

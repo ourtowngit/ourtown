@@ -6,7 +6,7 @@ tags: [carbon-credits, questions]
 
 # What Are Carbon Credits
 
-One of the fundamental CarbonShare questions is simply: **what are carbon credits?**
+One of the fundamental OurTown questions is simply: **what are carbon credits?**
 
 ## Questions
 
@@ -20,4 +20,4 @@ One of the fundamental CarbonShare questions is simply: **what are carbon credit
 
 These questions should be answered clearly before presenting any particular carbon-credit opportunity as established or guaranteed.
 
-See also: [[Carbon Credits]], [[What Carbon Credits Mean for Farmers]], [[CarbonShare Questions]]
+See also: [[Carbon Credits]], [[What Carbon Credits Mean for Farmers]], [[Carbon Credit Eligibility]]

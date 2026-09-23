@@ -6,7 +6,7 @@ tags: [energy-independence, agriculture, rural-development]
 
 # Energy Independence
 
-CarbonShare asks whether farms and rural communities can produce more of the energy they consume rather than depending entirely on externally purchased fuels.
+OurTown asks whether farms and rural communities can produce more of the energy they consume rather than depending entirely on externally purchased fuels.
 
 ## Grow Your Own Fuel
 

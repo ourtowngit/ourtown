@@ -25,7 +25,7 @@ USDA's 2022 data counted 143 agricultural cooperatives headquartered in Minnesot
 
 See [[Minnesota Agricultural Cooperatives Today]].
 
-## Relevance to CarbonShare
+## Relevance to OurTown
 
 The proposed cooperative model can be understood as a continuation of a Minnesota tradition:
 

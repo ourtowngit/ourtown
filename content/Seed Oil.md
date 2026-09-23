@@ -1,9 +1,12 @@
 ---
 title: Seed Oil
+tags:
+  - agriculture
+  - oilseeds
+  - processing
 ---
-
 # Seed Oil
 
-This topic is retained as a distinct node in the combined CarbonShare and Sustainable Aviation Fuel knowledge base.
+Seed oils are extracted from oil-bearing crops and can serve food, industrial, or energy markets depending on the crop and product specifications. For an agricultural processing project, the oil's composition, yield, quality requirements, competing uses, and buyer access all affect its potential value.
 
-See [[index]] for the overall structure.
+See [[Oilseed Feedstocks]], [[Winter Camelina]], and [[Sustainable Aviation Fuel (SAF)]].

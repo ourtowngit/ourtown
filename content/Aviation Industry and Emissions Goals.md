@@ -33,6 +33,6 @@ The aviation transition is also expressed through airline-specific goals.
 - **Delta Air Lines** reports SAF-use targets of 10% in 2030, 35% in 2035, and 95% in 2050. [Delta ESG Hub](https://esghub.delta.com/)
 - **Alaska Airlines** has a 2040 net-zero-carbon goal and identifies SAF as part of its strategy. [Alaska Airlines sustainability](https://news.alaskaair.com/sustainability/).
 
-These commitments do not guarantee a market for any particular feedstock or facility. They establish a documented long-term demand signal that CarbonShare can study.
+These commitments do not guarantee a market for any particular feedstock or facility. They establish a documented long-term demand signal that OurTown can study.
 
 See [[Sustainable Aviation Fuel (SAF)]], [[SAF Supply and Demand]], and [[Airline SAF Commitments]].

@@ -1,48 +1,40 @@
 ---
-title: OurTown / CarbonShare
+title: OurTown
 description: OurTown explores how farms, local processing, renewable energy, carbon management, and rural ownership can work together to create measurable local value.
-socialDescription: A practical, research-led model connecting farms, processing, energy, carbon, transportation, and rural communities.
+socialDescription: Practical, research-led connections between agriculture, processing, energy, carbon, transportation, and rural communities.
 tags:
   - ourtown
-  - carbonshare
   - agriculture
   - rural-development
   - SAF
 ---
-# OurTown / CarbonShare
+# OurTown
 
-OurTown's CarbonShare initiative asks a practical question:
+OurTown examines how family farms and rural communities can participate in markets growing around carbon reduction, sustainable fuels, renewable energy, and value-added agriculture.
 
-> **How can family farms and rural communities participate in the markets being created around carbon reduction, sustainable fuels, renewable energy, and value-added agriculture?**
+This research connects agricultural feedstocks, local processing, logistics, carbon management, and rural ownership. It asks what mix of technologies, markets, financing, and partnerships could create measurable value for farmers and towns.
 
-The project connects two related bodies of work:
+## Two central propositions
 
-- the [[SAF Framework]] for agricultural feedstocks, processing, logistics, and Sustainable Aviation Fuel;
-- the [[CarbonShare Thesis]] for keeping more agricultural, energy, and carbon-related value in rural communities.
-
-## Two central theses
-
-### Thesis 1 — Rural value creation
+### Rural value creation
 
 > **More agricultural value can remain in rural communities when more of the processing occurs near the farm.**
 
 See [[Local Processing as the Central Economic Thesis]].
 
-### Thesis 2 — Rural revitalization
+### Rural revitalization
 
-> **A new generation of agricultural processing, energy production, and carbon-management infrastructure could provide rural communities with a reason to rebuild the industrial and commercial systems that once connected farms to local towns and railroads.**
+> **A new generation of agricultural processing, energy production, and carbon-management infrastructure could help rural communities rebuild the industrial and commercial systems that once connected farms to local towns and railroads.**
 
-See [[Rural Revitalization as a Central Thesis]].
-
-These are **propositions to investigate**, not claims that the project has already proved.
+These are propositions to investigate, not claims that the project has already proved. See [[Rural Revitalization as a Central Thesis]].
 
 ## Why now?
 
 Microsoft described its 2020 sustainability goals as a “moonshot.” In February 2025, Microsoft wrote that “the moon has gotten further away,” while reaffirming its commitment and calling for collaboration across customers, suppliers, industry peers, partners, and policymakers. [Microsoft, *Progress on the road to 2030*, February 13, 2025](https://blogs.microsoft.com/on-the-issues/2025/02/13/progress-on-the-road-to-2030/).
 
-At the same time, IATA says aviation has committed to net-zero carbon emissions by 2050 and estimates that SAF could contribute up to 65% of the emissions reductions needed on that pathway. In 2026, IATA expects global SAF production to reach about 2.4 million tonnes, only 0.8% of aviation fuel use. [IATA, 2026 SAF production](https://www.iata.org/en/pressroom/2026-releases/06-06-saf-production-volumes-still-disappointing/).
+IATA says aviation has committed to net-zero carbon emissions by 2050 and estimates that sustainable aviation fuel (SAF) could contribute up to 65% of the emissions reductions needed on that pathway. IATA's 2026 estimate puts SAF production at about 2.4 million tonnes, or 0.8% of aviation fuel use. [IATA, 2026 SAF production](https://www.iata.org/en/pressroom/2026-releases/06-06-saf-production-volumes-still-disappointing/).
 
-The question is not whether the demand exists. The question is how rural producers can participate in the supply systems that emerge.
+The question is how rural producers can participate in the supply systems that emerge.
 
 ## Follow the system
 
@@ -64,11 +56,6 @@ The question is not whether the demand exists. The question is how rural produce
 
 ## Research discipline
 
-This site separates:
-
-1. **Documented facts** — supported by identifiable sources.
-2. **Historical/source claims** — attributed to the whitepaper or historical sources.
-3. **CarbonShare propositions** — ideas the project proposes to investigate.
-4. **Open questions** — items requiring project-specific engineering, economic, legal, or market analysis.
+This site separates documented facts, attributed historical and source claims, propositions to investigate, and open questions requiring project-specific engineering, economic, legal, or market analysis.
 
 See [[Claims and Verification Status]].

@@ -7,7 +7,7 @@ tags:
 ---
 # Claims and Verification Status
 
-This page records how CarbonShare treats important statements.
+This page records how OurTown treats important statements.
 
 | Topic | Status | Treatment |
 |---|---|---|

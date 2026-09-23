@@ -1,9 +1,11 @@
 ---
 title: Bio-Crude
+tags:
+  - bioenergy
+  - processing
 ---
-
 # Bio-Crude
 
-This topic is retained as a distinct node in the combined CarbonShare and Sustainable Aviation Fuel knowledge base.
+Bio-crude is a broad term for a crude-like liquid intermediate produced from biomass. Its composition and potential uses depend on the feedstock and conversion process, so any role in an OurTown project would need process-specific technical, economic, and environmental evaluation.
 
-See [[index]] for the overall structure.
+See [[Biochar]], [[Value-Added Processing]], and [[Sustainable Aviation Fuel (SAF)]].

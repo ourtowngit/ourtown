@@ -19,7 +19,7 @@ Sources: [IATA SAF](https://www.iata.org/en/programs/sustainability/sustainable-
 
 ## Why agriculture matters
 
-The CarbonShare/SAF proposal investigates:
+The OurTown/SAF proposal investigates:
 
 - feedstock cultivation;
 - farmer-led aggregation;

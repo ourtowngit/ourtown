@@ -25,7 +25,7 @@ Recovered heat can potentially support:
 - power generation;
 - agricultural processing.
 
-## The CarbonShare question
+## The OurTown question
 
 A rural processing system could be designed so that one facility's waste stream becomes another facility's energy input.
 

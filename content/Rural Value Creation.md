@@ -6,7 +6,7 @@ tags: [rural-development, value-added, economic-development]
 
 # Rural Value Creation
 
-CarbonShare is ultimately concerned with where value is created and where it remains.
+OurTown is ultimately concerned with where value is created and where it remains.
 
 ## Central question
 
