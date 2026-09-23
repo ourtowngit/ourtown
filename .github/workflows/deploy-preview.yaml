@@ -1,7 +1,8 @@
-name: Upload Preview Deployment
+name: Deploy OurTown Preview
+
 on:
   workflow_run:
-    workflows: ["Build Preview Deployment"]
+    workflows: ["Build OurTown Preview"]
     types:
       - completed
 
@@ -13,9 +14,9 @@ permissions:
 
 jobs:
   deploy-preview:
-    if: ${{ github.repository == 'jackyzha0/quartz' && github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.event == 'pull_request' && github.event.workflow_run.head_repository.full_name == github.repository }}
     runs-on: ubuntu-latest
-    name: Deploy Preview to Cloudflare Pages
+    name: Deploy OurTown preview to Cloudflare Pages
     steps:
       - name: Download build artifact
         uses: actions/download-artifact@v8
@@ -32,6 +33,6 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          projectName: quartz
-          deploymentName: Branch Preview
+          projectName: ${{ vars.CLOUDFLARE_PAGES_PROJECT || 'ourtown' }}
+          deploymentName: OurTown PR Preview
           directory: ${{ steps.preview-build-artifact.outputs.download-path }}

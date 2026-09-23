@@ -1,13 +1,15 @@
 ---
-title: CarbonShare Quartz Site
+title: OurTown / CarbonShare Content
+description: Editorial and research content for the OurTown / CarbonShare Quartz site.
 tags:
   - quartz
+  - ourtown
   - carbonshare
   - research
 ---
-# CarbonShare Quartz Site
+# OurTown / CarbonShare Content
 
-This content set is designed for Quartz 4.
+This content set is designed for Quartz 5.
 
 `index.md` is the homepage.
 

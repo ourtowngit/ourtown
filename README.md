@@ -1,17 +1,29 @@
-# Quartz v5
+# OurTown / CarbonShare
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+OurTown is a place-based model connecting farms, local processing, renewable energy, carbon management, transportation, and local ownership to explore practical paths toward rural revitalization.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+This repository publishes the OurTown / CarbonShare research site with Quartz 5. The public content lives in `content/`, with `content/index.md` as the homepage.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Local development
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+```bash
+npm ci
+npx quartz plugin install
+npm run preview
+```
 
-## Sponsors
+The preview server runs at http://localhost:8080.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Production build
+
+```bash
+npm run build
+```
+
+The generated site is written to `public/`.
+
+## Content principles
+
+The site distinguishes documented facts, attributed historical or source claims, CarbonShare propositions, and open questions requiring project-specific engineering, economic, legal, or market analysis.
+
+The Quartz configuration is in `quartz.config.yaml`. The upstream-style `quartz.config.default.yaml` is retained as a fallback reference.

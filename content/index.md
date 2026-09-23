@@ -1,14 +1,17 @@
 ---
-title: CarbonShare
+title: OurTown / CarbonShare
+description: OurTown explores how farms, local processing, renewable energy, carbon management, and rural ownership can work together to create measurable local value.
+socialDescription: A practical, research-led model connecting farms, processing, energy, carbon, transportation, and rural communities.
 tags:
+  - ourtown
   - carbonshare
   - agriculture
   - rural-development
   - SAF
 ---
-# CarbonShare
+# OurTown / CarbonShare
 
-CarbonShare asks a practical question:
+OurTown's CarbonShare initiative asks a practical question:
 
 > **How can family farms and rural communities participate in the markets being created around carbon reduction, sustainable fuels, renewable energy, and value-added agriculture?**
 
