@@ -27,3 +27,16 @@ The generated site is written to `public/`.
 The site distinguishes documented facts, attributed historical or source claims, CarbonShare propositions, and open questions requiring project-specific engineering, economic, legal, or market analysis.
 
 The Quartz configuration is in `quartz.config.yaml`. The upstream-style `quartz.config.default.yaml` is retained as a fallback reference.
+
+## Cloudflare deployment
+
+The v5 deployment workflow builds `content/` and deploys to Cloudflare Pages when credentials are available.
+
+Configure these repository secrets:
+
+- `CLOUDFLARE_API_TOKEN`
+- `CLOUDFLARE_ACCOUNT_ID`
+
+The Pages project defaults to `ourtown`. To use another project, set the repository variable `CLOUDFLARE_PAGES_PROJECT`.
+
+If Cloudflare Pages is the primary host, disable the separate GitHub Pages deployment source in the repository settings.
